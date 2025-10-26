@@ -9,20 +9,20 @@ The goal is to extract actionable insights that can help restaurant owners, food
 
 ## 🚀 Features
 
-✨ Comprehensive EDA – Cleaned and visualized restaurant data using Python (Pandas, Matplotlib, Seaborn, Plotly).
-📍 Location Insights – Found top-rated restaurants by city and locality.
-🍽️ Cuisine Analysis – Identified trending cuisines and their price ranges.
-⭐ Rating Distribution – Explored correlations between price, service, and customer ratings.
-💰 Cost & Popularity Trends – Visualized how average cost varies by cuisine and location.
+✨ Comprehensive EDA – Cleaned and visualized restaurant data using Python (Pandas, Matplotlib, Seaborn, Plotly).<br>
+📍 Location Insights – Found top-rated restaurants by city and locality.<br>
+🍽️ Cuisine Analysis – Identified trending cuisines and their price ranges.<br>
+⭐ Rating Distribution – Explored correlations between price, service, and customer ratings.<br>
+💰 Cost & Popularity Trends – Visualized how average cost varies by cuisine and location.<br>
 
 ---
 
 ## 🧰 Tech Stack
-Category	Tools / Libraries
-Programming	Python
-Data Handling	Pandas, NumPy
-Visualization	Matplotlib, Seaborn, Plotly
-Notebook	Jupyter Notebook / Google Colab
+Category	Tools / Libraries<br>
+Programming	Python<br>
+Data Handling	Pandas, NumPy<br>
+Visualization	Matplotlib, Seaborn, Plotly<br>
+Notebook	Jupyter Notebook / Google Colab<br>
 
 ---
 
